@@ -44,6 +44,7 @@
 - GNU Project and open source licensing (GPL, MIT, Apache)
 - Linux architecture: Kernel vs User Space
 - Linux system components and process management
+- Filesystem, Linux file system heirarchy
 - Accessing Linux (VMware, Cloud, Dual Boot, Live Boot)
 - CLI vs GUI understanding
 - Basic terminal navigation and help systems
