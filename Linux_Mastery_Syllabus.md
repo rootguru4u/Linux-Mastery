@@ -14,7 +14,7 @@
 
 | Module | Topic |
 |--------|--------|
-| **1** | Introduction to Linux |
+| **1** | Introduction to Linux, Filesystem, Linux file system heirarchy |
 | **2** | Linux Installation & Initial Setup |
 | **3** | File Management, Viewing & Searching |
 | **4** | Text Processing, Redirection & Pipes |
