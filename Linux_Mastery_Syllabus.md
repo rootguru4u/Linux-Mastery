@@ -14,24 +14,25 @@
 
 | Module | Topic |
 |--------|--------|
-| **1** | Introduction to Linux, Filesystem, Linux file system heirarchy |
+| **1** | Introduction to Linux |
 | **2** | Linux Installation & Initial Setup |
-| **3** | File Management, Viewing & Searching |
-| **4** | Text Processing, Redirection & Pipes |
-| **5** | Users, Groups, and Permissions |
-| **6** | Package, Process & Job Management |
-| **7** | Archive, Compression & Backup |
-| **8** | Default Linux System Configuration & Customization |
-| **9** | Disk, LVM, and Filesystem Management |
-| **10** | Boot Process, Recovery & Kernel Issues |
-| **11** | Network, Remote Access & Services |
-| **12** | File Sharing Services |
-| **13** | Web & Application Services |
-| **14** | RAID, LUN, and Advanced Storage |
-| **15** | OS Hardening & Patching |
-| **16** | Monitoring, Logs & Troubleshooting |
-| **17** | Linux Clustering Basics |
-| **18** | Capstone Projects |
+| **3** | Filesystem, Linux file system heirarchy |
+| **4** | File Management, Viewing & Searching |
+| **5** | Text Processing, Redirection & Pipes |
+| **6** | Users, Groups, and Permissions |
+| **7** | Package, Process & Job Management |
+| **8** | Archive, Compression & Backup |
+| **9** | Default Linux System Configuration & Customization |
+| **10** | Disk, LVM, and Filesystem Management |
+| **11** | Boot Process, Recovery & Kernel Issues |
+| **12** | Network, Remote Access & Services |
+| **13** | File Sharing Services |
+| **14** | Web & Application Services |
+| **15** | RAID, LUN, and Advanced Storage |
+| **16** | OS Hardening & Patching |
+| **17** | Monitoring, Logs & Troubleshooting |
+| **18** | Linux Clustering Basics |
+| **19** | Capstone Projects |
 
 ---
 
@@ -44,7 +45,6 @@
 - GNU Project and open source licensing (GPL, MIT, Apache)
 - Linux architecture: Kernel vs User Space
 - Linux system components and process management
-- Filesystem, Linux file system heirarchy
 - Accessing Linux (VMware, Cloud, Dual Boot, Live Boot)
 - CLI vs GUI understanding
 - Basic terminal navigation and help systems
